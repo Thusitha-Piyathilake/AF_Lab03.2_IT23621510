@@ -18,3 +18,5 @@ async function myFunction() {
 }
 
 myFunction();
+
+console.log("Coloberate with me!");
