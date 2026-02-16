@@ -1,0 +1,19 @@
+{
+  "name": "af_lab03.2_it23621510",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thusitha-Piyathilake/AF_Lab03.2_IT23621510.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thusitha-Piyathilake/AF_Lab03.2_IT23621510/issues"
+  },
+  "homepage": "https://github.com/Thusitha-Piyathilake/AF_Lab03.2_IT23621510#readme"
+}
